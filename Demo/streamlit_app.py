@@ -12,10 +12,10 @@ from google.genai import types
 
 # --- Setup ---
 load_dotenv()
-api_key = os.getenv("GEMINI_API_KEY")
-if not api_key:
-    st.error("GEMINI_API_KEY is not set in your environment.")
-    st.stop()
+# api_key = os.getenv("GEMINI_API_KEY")
+# if not api_key:
+#     st.error("GEMINI_API_KEY is not set in your environment.")
+#     st.stop()
 
 # Setup logging (optional, for debugging)
 logging.basicConfig(

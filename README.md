@@ -1,5 +1,7 @@
 # Podcast Generator
 
+![Podcast Generator UI](podcast.png)
+
 A tool for generating podcasts automatically from a topic.
 
 ## Introduction
